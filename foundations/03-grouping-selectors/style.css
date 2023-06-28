@@ -1,0 +1,13 @@
+.fst, .scnd{
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
+}
+
+.fst{
+    background-color: #000;
+    color: #fff;
+}
+
+.scnd{
+    background-color:#FFFF00;
+}
